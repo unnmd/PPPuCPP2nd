@@ -7,21 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B73CD9A32A6ABE7100000EEC /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B73CD9A22A6ABE7100000EEC /* main.cpp */; };
 		B73CD9BE2A6ABEE600000EEC /* exercise1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B73CD9BD2A6ABEE600000EEC /* exercise1.cpp */; };
 		B73CD9C92A6ABF8000000EEC /* example2-2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B73CD9C82A6ABF8000000EEC /* example2-2.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		B73CD99D2A6ABE7100000EEC /* CopyFiles */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = /usr/share/man/man1/;
-			dstSubfolderSpec = 0;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 1;
-		};
 		B73CD9B92A6ABEE600000EEC /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -43,8 +33,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		B73CD99F2A6ABE7100000EEC /* Chapter2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Chapter2; sourceTree = BUILT_PRODUCTS_DIR; };
-		B73CD9A22A6ABE7100000EEC /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		B73CD9BB2A6ABEE600000EEC /* exercise1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = exercise1; sourceTree = BUILT_PRODUCTS_DIR; };
 		B73CD9BD2A6ABEE600000EEC /* exercise1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = exercise1.cpp; sourceTree = "<group>"; };
 		B73CD9C62A6ABF8000000EEC /* example2-2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "example2-2"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -52,13 +40,6 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		B73CD99C2A6ABE7100000EEC /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		B73CD9B82A6ABEE600000EEC /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -79,7 +60,8 @@
 		B73CD9962A6ABE7100000EEC = {
 			isa = PBXGroup;
 			children = (
-				B73CD9A12A6ABE7100000EEC /* Chapter2 */,
+				B73CD9B52A6ABE8700000EEC /* Examples */,
+				B73CD9B62A6ABE9C00000EEC /* Exercises */,
 				B73CD9A02A6ABE7100000EEC /* Products */,
 			);
 			sourceTree = "<group>";
@@ -87,21 +69,10 @@
 		B73CD9A02A6ABE7100000EEC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B73CD99F2A6ABE7100000EEC /* Chapter2 */,
 				B73CD9BB2A6ABEE600000EEC /* exercise1 */,
 				B73CD9C62A6ABF8000000EEC /* example2-2 */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		B73CD9A12A6ABE7100000EEC /* Chapter2 */ = {
-			isa = PBXGroup;
-			children = (
-				B73CD9B62A6ABE9C00000EEC /* Exercises */,
-				B73CD9B52A6ABE8700000EEC /* Examples */,
-				B73CD9A22A6ABE7100000EEC /* main.cpp */,
-			);
-			path = Chapter2;
 			sourceTree = "<group>";
 		};
 		B73CD9B52A6ABE8700000EEC /* Examples */ = {
@@ -139,23 +110,6 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B73CD99E2A6ABE7100000EEC /* Chapter2 */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = B73CD9A62A6ABE7100000EEC /* Build configuration list for PBXNativeTarget "Chapter2" */;
-			buildPhases = (
-				B73CD99B2A6ABE7100000EEC /* Sources */,
-				B73CD99C2A6ABE7100000EEC /* Frameworks */,
-				B73CD99D2A6ABE7100000EEC /* CopyFiles */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = Chapter2;
-			productName = Chapter2;
-			productReference = B73CD99F2A6ABE7100000EEC /* Chapter2 */;
-			productType = "com.apple.product-type.tool";
-		};
 		B73CD9BA2A6ABEE600000EEC /* exercise1 */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = B73CD9BF2A6ABEE600000EEC /* Build configuration list for PBXNativeTarget "exercise1" */;
@@ -199,9 +153,6 @@
 				BuildIndependentTargetsInParallel = 1;
 				LastUpgradeCheck = 1420;
 				TargetAttributes = {
-					B73CD99E2A6ABE7100000EEC = {
-						CreatedOnToolsVersion = 14.2;
-					};
 					B73CD9BA2A6ABEE600000EEC = {
 						CreatedOnToolsVersion = 14.2;
 					};
@@ -223,7 +174,6 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B73CD99E2A6ABE7100000EEC /* Chapter2 */,
 				B73CD9BA2A6ABEE600000EEC /* exercise1 */,
 				B73CD9C52A6ABF8000000EEC /* example2-2 */,
 			);
@@ -231,14 +181,6 @@
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		B73CD99B2A6ABE7100000EEC /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				B73CD9A32A6ABE7100000EEC /* main.cpp in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		B73CD9B72A6ABEE600000EEC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -367,26 +309,6 @@
 			};
 			name = Release;
 		};
-		B73CD9A72A6ABE7100000EEC /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 748MK79K9U;
-				ENABLE_HARDENED_RUNTIME = YES;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-			};
-			name = Debug;
-		};
-		B73CD9A82A6ABE7100000EEC /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 748MK79K9U;
-				ENABLE_HARDENED_RUNTIME = YES;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-			};
-			name = Release;
-		};
 		B73CD9C02A6ABEE600000EEC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -435,15 +357,6 @@
 			buildConfigurations = (
 				B73CD9A42A6ABE7100000EEC /* Debug */,
 				B73CD9A52A6ABE7100000EEC /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		B73CD9A62A6ABE7100000EEC /* Build configuration list for PBXNativeTarget "Chapter2" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				B73CD9A72A6ABE7100000EEC /* Debug */,
-				B73CD9A82A6ABE7100000EEC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

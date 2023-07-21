@@ -39,6 +39,27 @@
 			remoteGlobalIDString = B73CD98F2A6AAF0B00000EEC;
 			remoteInfo = exercise4;
 		};
+		B73CD9E52A6AC09100000EEC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B73CD9A92A6ABE7100000EEC /* Chapter2.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B73CD9BB2A6ABEE600000EEC;
+			remoteInfo = exercise1;
+		};
+		B73CD9E72A6AC09100000EEC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B73CD9A92A6ABE7100000EEC /* Chapter2.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B73CD9C62A6ABF8000000EEC;
+			remoteInfo = "example2-2";
+		};
+		B73CD9EA2A6AC09100000EEC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B73CD9E02A6AC08F00000EEC /* Chapter3.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B73CD9D62A6AC08F00000EEC;
+			remoteInfo = Chapter3;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -57,6 +78,7 @@
 		B73CD9622A6A9B2000000EEC /* lib */ = {isa = PBXFileReference; lastKnownFileType = folder; path = lib; sourceTree = "<group>"; };
 		B73CD9762A6AACA200000EEC /* Chapter4.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Chapter4.xcodeproj; path = Chapter4/Chapter4.xcodeproj; sourceTree = "<group>"; };
 		B73CD9A92A6ABE7100000EEC /* Chapter2.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Chapter2.xcodeproj; path = Chapter2/Chapter2.xcodeproj; sourceTree = "<group>"; };
+		B73CD9E02A6AC08F00000EEC /* Chapter3.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Chapter3.xcodeproj; path = Chapter3/Chapter3.xcodeproj; sourceTree = "<group>"; };
 		B7B7CFDC2A6A96C40003342B /* PPPuCPP2nd */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PPPuCPP2nd; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7B7CFDF2A6A96C40003342B /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -86,6 +108,16 @@
 			isa = PBXGroup;
 			children = (
 				B73CD9AE2A6ABE7300000EEC /* Chapter2 */,
+				B73CD9E62A6AC09100000EEC /* exercise1 */,
+				B73CD9E82A6AC09100000EEC /* example2-2 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B73CD9E12A6AC08F00000EEC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B73CD9EB2A6AC09100000EEC /* Chapter3 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -110,6 +142,7 @@
 			isa = PBXGroup;
 			children = (
 				B73CD9A92A6ABE7100000EEC /* Chapter2.xcodeproj */,
+				B73CD9E02A6AC08F00000EEC /* Chapter3.xcodeproj */,
 				B73CD9762A6AACA200000EEC /* Chapter4.xcodeproj */,
 				B73CD9622A6A9B2000000EEC /* lib */,
 				B7B7CFDF2A6A96C40003342B /* main.cpp */,
@@ -168,6 +201,10 @@
 					ProjectRef = B73CD9A92A6ABE7100000EEC /* Chapter2.xcodeproj */;
 				},
 				{
+					ProductGroup = B73CD9E12A6AC08F00000EEC /* Products */;
+					ProjectRef = B73CD9E02A6AC08F00000EEC /* Chapter3.xcodeproj */;
+				},
+				{
 					ProductGroup = B73CD9772A6AACA200000EEC /* Products */;
 					ProjectRef = B73CD9762A6AACA200000EEC /* Chapter4.xcodeproj */;
 				},
@@ -206,6 +243,27 @@
 			fileType = "compiled.mach-o.executable";
 			path = exercise4;
 			remoteRef = B73CD9B32A6ABE7300000EEC /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B73CD9E62A6AC09100000EEC /* exercise1 */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = exercise1;
+			remoteRef = B73CD9E52A6AC09100000EEC /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B73CD9E82A6AC09100000EEC /* example2-2 */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = "example2-2";
+			remoteRef = B73CD9E72A6AC09100000EEC /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B73CD9EB2A6AC09100000EEC /* Chapter3 */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = Chapter3;
+			remoteRef = B73CD9EA2A6AC09100000EEC /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 /* End PBXReferenceProxy section */
