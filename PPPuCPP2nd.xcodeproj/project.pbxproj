@@ -11,20 +11,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		B73CD97A2A6AACA300000EEC /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = B73CD9762A6AACA200000EEC /* Chapter4.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = B73CD96C2A6AACA200000EEC;
-			remoteInfo = Chapter4;
-		};
-		B73CD9AD2A6ABE7300000EEC /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = B73CD9A92A6ABE7100000EEC /* Chapter2.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = B73CD99F2A6ABE7100000EEC;
-			remoteInfo = Chapter2;
-		};
 		B73CD9B12A6ABE7300000EEC /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = B73CD9762A6AACA200000EEC /* Chapter4.xcodeproj */;
@@ -53,12 +39,26 @@
 			remoteGlobalIDString = B73CD9C62A6ABF8000000EEC;
 			remoteInfo = "example2-2";
 		};
-		B73CD9EA2A6AC09100000EEC /* PBXContainerItemProxy */ = {
+		B73CDA642A6E7EC000000EEC /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = B73CD9E02A6AC08F00000EEC /* Chapter3.xcodeproj */;
 			proxyType = 2;
-			remoteGlobalIDString = B73CD9D62A6AC08F00000EEC;
-			remoteInfo = Chapter3;
+			remoteGlobalIDString = B73CDA2D2A6E75FA00000EEC;
+			remoteInfo = "ch3-drill";
+		};
+		B73CDA662A6E7EC000000EEC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B73CD9E02A6AC08F00000EEC /* Chapter3.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B73CDA492A6E7D7500000EEC;
+			remoteInfo = example_ch3_1;
+		};
+		B73CDA772A6E7EE200000EEC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B73CD9E02A6AC08F00000EEC /* Chapter3.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B73CDA6F2A6E7ED600000EEC;
+			remoteInfo = "ch3-part1";
 		};
 /* End PBXContainerItemProxy section */
 
@@ -97,7 +97,6 @@
 		B73CD9772A6AACA200000EEC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B73CD97B2A6AACA300000EEC /* Chapter4 */,
 				B73CD9B22A6ABE7300000EEC /* example4-3-3 */,
 				B73CD9B42A6ABE7300000EEC /* exercise4 */,
 			);
@@ -107,7 +106,6 @@
 		B73CD9AA2A6ABE7100000EEC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B73CD9AE2A6ABE7300000EEC /* Chapter2 */,
 				B73CD9E62A6AC09100000EEC /* exercise1 */,
 				B73CD9E82A6AC09100000EEC /* example2-2 */,
 			);
@@ -117,7 +115,9 @@
 		B73CD9E12A6AC08F00000EEC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B73CD9EB2A6AC09100000EEC /* Chapter3 */,
+				B73CDA652A6E7EC000000EEC /* ch3-drill */,
+				B73CDA672A6E7EC000000EEC /* example_ch3_1 */,
+				B73CDA782A6E7EE200000EEC /* ch3-part1 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -217,20 +217,6 @@
 /* End PBXProject section */
 
 /* Begin PBXReferenceProxy section */
-		B73CD97B2A6AACA300000EEC /* Chapter4 */ = {
-			isa = PBXReferenceProxy;
-			fileType = "compiled.mach-o.executable";
-			path = Chapter4;
-			remoteRef = B73CD97A2A6AACA300000EEC /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		B73CD9AE2A6ABE7300000EEC /* Chapter2 */ = {
-			isa = PBXReferenceProxy;
-			fileType = "compiled.mach-o.executable";
-			path = Chapter2;
-			remoteRef = B73CD9AD2A6ABE7300000EEC /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
 		B73CD9B22A6ABE7300000EEC /* example4-3-3 */ = {
 			isa = PBXReferenceProxy;
 			fileType = "compiled.mach-o.executable";
@@ -259,11 +245,25 @@
 			remoteRef = B73CD9E72A6AC09100000EEC /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		B73CD9EB2A6AC09100000EEC /* Chapter3 */ = {
+		B73CDA652A6E7EC000000EEC /* ch3-drill */ = {
 			isa = PBXReferenceProxy;
 			fileType = "compiled.mach-o.executable";
-			path = Chapter3;
-			remoteRef = B73CD9EA2A6AC09100000EEC /* PBXContainerItemProxy */;
+			path = "ch3-drill";
+			remoteRef = B73CDA642A6E7EC000000EEC /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B73CDA672A6E7EC000000EEC /* example_ch3_1 */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = example_ch3_1;
+			remoteRef = B73CDA662A6E7EC000000EEC /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B73CDA782A6E7EE200000EEC /* ch3-part1 */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = "ch3-part1";
+			remoteRef = B73CDA772A6E7EE200000EEC /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 /* End PBXReferenceProxy section */
