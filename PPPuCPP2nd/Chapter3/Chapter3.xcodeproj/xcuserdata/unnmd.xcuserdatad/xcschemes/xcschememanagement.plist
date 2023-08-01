@@ -21,6 +21,8 @@
 		</dict>
 		<key>ch3-drill.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>17</integer>
 		</dict>
@@ -31,46 +33,64 @@
 		</dict>
 		<key>example3-1.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>7</integer>
 		</dict>
 		<key>example3-3.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
 		<key>example3-4.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>9</integer>
 		</dict>
 		<key>example3-5.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>6</integer>
 		</dict>
 		<key>example3-6-1.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>15</integer>
 		</dict>
 		<key>example3-6.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>13</integer>
 		</dict>
 		<key>example3-7.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>18</integer>
 		</dict>
 		<key>example3-9-1.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
 		<key>example3-9-2.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
@@ -86,51 +106,71 @@
 		</dict>
 		<key>exercise3-10.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>23</integer>
 		</dict>
 		<key>exercise3-11.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>24</integer>
 		</dict>
 		<key>exercise3-2.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>16</integer>
 		</dict>
 		<key>exercise3-3.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
 		<key>exercise3-4.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>14</integer>
 		</dict>
 		<key>exercise3-5.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>11</integer>
 		</dict>
 		<key>exercise3-6.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>19</integer>
 		</dict>
 		<key>exercise3-7.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>20</integer>
 		</dict>
 		<key>exercise3-8.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>21</integer>
 		</dict>
 		<key>exercise3-9.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>22</integer>
 		</dict>
@@ -142,7 +182,102 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>B73CDA2C2A6E75FA00000EEC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B73CDA8E2A6E9E4000000EEC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B74864B32A6EBA3D006F78B2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B74864BE2A6EBAD9006F78B2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B74864C92A6EBB3D006F78B2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B74864D42A6EBBB9006F78B2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B74864DF2A6EBC26006F78B2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B74864EA2A6EBF6E006F78B2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>B76B21252A6E9F4800CF6097</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B76B21302A6EA02E00CF6097</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B76B213B2A6EA11100CF6097</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B76B21462A6EA8D200CF6097</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B76B21512A6EA95C00CF6097</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B76B215C2A6EA9BC00CF6097</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B76B21672A6EAAB900CF6097</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B76B21722A6EAE0600CF6097</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B76B217E2A6EB5A900CF6097</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B76B21892A6EB5FE00CF6097</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B76B21942A6EB64F00CF6097</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B76B21D52A6EB92E00CF6097</key>
 		<dict>
 			<key>primary</key>
 			<true/>
