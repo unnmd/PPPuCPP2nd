@@ -46,7 +46,7 @@
 		B7C7ECDA2A85168300B6487D /* exercise4-18.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7C7ECD92A85168300B6487D /* exercise4-18.cpp */; };
 		B7C7ECE52A8523F400B6487D /* exercise4-19.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7C7ECE42A8523F400B6487D /* exercise4-19.cpp */; };
 		B7C7ECF02A85333A00B6487D /* exercise4-20.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7C7ECEF2A85333A00B6487D /* exercise4-20.cpp */; };
-		B7C7ECFB2A86438C00B6487D /* execrcise4-21.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7C7ECFA2A86438C00B6487D /* execrcise4-21.cpp */; };
+		B7C7ECFB2A86438C00B6487D /* exercise4-21.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7C7ECFA2A86438C00B6487D /* exercise4-21.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -491,8 +491,8 @@
 		B7C7ECE42A8523F400B6487D /* exercise4-19.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "exercise4-19.cpp"; sourceTree = "<group>"; };
 		B7C7ECED2A85333900B6487D /* exercise4-20 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "exercise4-20"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7C7ECEF2A85333A00B6487D /* exercise4-20.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "exercise4-20.cpp"; sourceTree = "<group>"; };
-		B7C7ECF82A86438B00B6487D /* execrcise4-21 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "execrcise4-21"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B7C7ECFA2A86438C00B6487D /* execrcise4-21.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "execrcise4-21.cpp"; sourceTree = "<group>"; };
+		B7C7ECF82A86438B00B6487D /* exercise4-21 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "exercise4-21"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B7C7ECFA2A86438C00B6487D /* exercise4-21.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "exercise4-21.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -832,7 +832,7 @@
 				B7C7ECD72A85168200B6487D /* exercise4-18 */,
 				B7C7ECE22A8523F300B6487D /* exercise4-19 */,
 				B7C7ECED2A85333900B6487D /* exercise4-20 */,
-				B7C7ECF82A86438B00B6487D /* execrcise4-21 */,
+				B7C7ECF82A86438B00B6487D /* exercise4-21 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -868,7 +868,7 @@
 		B73CD9882A6AADF900000EEC /* Exercises */ = {
 			isa = PBXGroup;
 			children = (
-				B7C7ECF92A86438C00B6487D /* execrcise4-21 */,
+				B7C7ECF92A86438C00B6487D /* exercise4-21 */,
 				B7C7ECEE2A85333A00B6487D /* exercise4-20 */,
 				B7C7ECE32A8523F400B6487D /* exercise4-19 */,
 				B7C7ECD82A85168300B6487D /* exercise4-18 */,
@@ -1217,12 +1217,12 @@
 			path = "exercise4-20";
 			sourceTree = "<group>";
 		};
-		B7C7ECF92A86438C00B6487D /* execrcise4-21 */ = {
+		B7C7ECF92A86438C00B6487D /* exercise4-21 */ = {
 			isa = PBXGroup;
 			children = (
-				B7C7ECFA2A86438C00B6487D /* execrcise4-21.cpp */,
+				B7C7ECFA2A86438C00B6487D /* exercise4-21.cpp */,
 			);
-			path = "execrcise4-21";
+			path = "exercise4-21";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -1891,9 +1891,9 @@
 			productReference = B7C7ECED2A85333900B6487D /* exercise4-20 */;
 			productType = "com.apple.product-type.tool";
 		};
-		B7C7ECF72A86438A00B6487D /* execrcise4-21 */ = {
+		B7C7ECF72A86438A00B6487D /* exercise4-21 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B7C7ECFC2A86438C00B6487D /* Build configuration list for PBXNativeTarget "execrcise4-21" */;
+			buildConfigurationList = B7C7ECFC2A86438C00B6487D /* Build configuration list for PBXNativeTarget "exercise4-21" */;
 			buildPhases = (
 				B7C7ECF42A86438A00B6487D /* Sources */,
 				B7C7ECF52A86438A00B6487D /* Frameworks */,
@@ -1903,9 +1903,9 @@
 			);
 			dependencies = (
 			);
-			name = "execrcise4-21";
+			name = "exercise4-21";
 			productName = "execrcise4-21";
-			productReference = B7C7ECF82A86438B00B6487D /* execrcise4-21 */;
+			productReference = B7C7ECF82A86438B00B6487D /* exercise4-21 */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -2091,7 +2091,7 @@
 				B7C7ECD62A85168200B6487D /* exercise4-18 */,
 				B7C7ECE12A8523F300B6487D /* exercise4-19 */,
 				B7C7ECEC2A85333900B6487D /* exercise4-20 */,
-				B7C7ECF72A86438A00B6487D /* execrcise4-21 */,
+				B7C7ECF72A86438A00B6487D /* exercise4-21 */,
 			);
 		};
 /* End PBXProject section */
@@ -2413,7 +2413,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B7C7ECFB2A86438C00B6487D /* execrcise4-21.cpp in Sources */,
+				B7C7ECFB2A86438C00B6487D /* exercise4-21.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3692,7 +3692,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B7C7ECFC2A86438C00B6487D /* Build configuration list for PBXNativeTarget "execrcise4-21" */ = {
+		B7C7ECFC2A86438C00B6487D /* Build configuration list for PBXNativeTarget "exercise4-21" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B7C7ECFD2A86438C00B6487D /* Debug */,
