@@ -7,7 +7,7 @@
 		<key>Chapter5.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>76</integer>
+			<integer>94</integer>
 		</dict>
 		<key>Drill5-1.xcscheme_^#shared#^_</key>
 		<dict>
@@ -17,42 +17,42 @@
 		<key>Drill5.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>70</integer>
+			<integer>92</integer>
 		</dict>
 		<key>example5-5-1.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>81</integer>
+			<integer>64</integer>
 		</dict>
 		<key>example5-5-2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>77</integer>
+			<integer>79</integer>
 		</dict>
 		<key>example5-5.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>93</integer>
+			<integer>83</integer>
 		</dict>
 		<key>example5-6-1.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>78</integer>
+			<integer>89</integer>
 		</dict>
 		<key>example5-7.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>68</integer>
+			<integer>75</integer>
 		</dict>
 		<key>exercise5-10.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>83</integer>
+			<integer>97</integer>
 		</dict>
 		<key>exercise5-11.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>88</integer>
+			<integer>98</integer>
 		</dict>
 		<key>exercise5-12.xcscheme_^#shared#^_</key>
 		<dict>
@@ -67,72 +67,72 @@
 		<key>exercise5-14.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>71</integer>
+			<integer>93</integer>
 		</dict>
 		<key>exercise5-2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>92</integer>
+			<integer>70</integer>
 		</dict>
 		<key>exercise5-3.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>79</integer>
+			<integer>71</integer>
 		</dict>
 		<key>exercise5-4.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>65</integer>
+			<integer>85</integer>
 		</dict>
 		<key>exercise5-5.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>80</integer>
+			<integer>90</integer>
 		</dict>
 		<key>exercise5-6.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>75</integer>
+			<integer>80</integer>
 		</dict>
 		<key>exercise5-7.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>85</integer>
+			<integer>68</integer>
 		</dict>
 		<key>exercise5-8.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>84</integer>
+			<integer>72</integer>
 		</dict>
 		<key>exercise5-9.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>89</integer>
+			<integer>73</integer>
 		</dict>
 		<key>exmaple5-6-2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>87</integer>
+			<integer>74</integer>
 		</dict>
 		<key>try5-3-1.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>91</integer>
+			<integer>82</integer>
 		</dict>
 		<key>try5-3-2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>90</integer>
+			<integer>95</integer>
 		</dict>
 		<key>try5-5-3.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>64</integer>
+			<integer>87</integer>
 		</dict>
 		<key>try5-6-3.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>74</integer>
+			<integer>66</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>

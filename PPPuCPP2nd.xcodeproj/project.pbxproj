@@ -11,6 +11,83 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
+		B702B5A42AFA707500D0BCD8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B70716BB2A9CABEB00E42132 /* Chapter6.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B70717542A9E298C00E42132;
+			remoteInfo = "try6-6";
+		};
+		B702B5A62AFA707500D0BCD8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B70716BB2A9CABEB00E42132 /* Chapter6.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B70717602A9F649900E42132;
+			remoteInfo = drill6;
+		};
+		B702B5A82AFA707500D0BCD8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B70716BB2A9CABEB00E42132 /* Chapter6.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B707176C2AA09CAC00E42132;
+			remoteInfo = "exercise6-2";
+		};
+		B702B5AA2AFA707500D0BCD8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B70716BB2A9CABEB00E42132 /* Chapter6.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B70717772AA0AEF400E42132;
+			remoteInfo = "exercise6-3";
+		};
+		B702B5AC2AFA707500D0BCD8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B70716BB2A9CABEB00E42132 /* Chapter6.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B70717832AA0D51200E42132;
+			remoteInfo = "example6-3-3";
+		};
+		B702B5AE2AFA707500D0BCD8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B70716BB2A9CABEB00E42132 /* Chapter6.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B746BD402AAB63E900C4A002;
+			remoteInfo = "exercise6-4";
+		};
+		B702B5B02AFA707500D0BCD8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B70716BB2A9CABEB00E42132 /* Chapter6.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B76C9A2A2ADD7543001A13E7;
+			remoteInfo = "exercise6-6";
+		};
+		B702B5B22AFA707500D0BCD8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B70716BB2A9CABEB00E42132 /* Chapter6.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B702B50C2AF141A400D0BCD8;
+			remoteInfo = "exercise6-8";
+		};
+		B702B5B42AFA707500D0BCD8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B70716BB2A9CABEB00E42132 /* Chapter6.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B702B5172AF14C8800D0BCD8;
+			remoteInfo = "exercise6-9";
+		};
+		B702B5B62AFA707500D0BCD8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B70716BB2A9CABEB00E42132 /* Chapter6.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B702B5222AF3B93C00D0BCD8;
+			remoteInfo = "exercise6-10";
+		};
+		B702B5B92AFA707500D0BCD8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B702B5412AFA707400D0BCD8 /* Chapter7.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B702B5372AFA707400D0BCD8;
+			remoteInfo = Chapter7;
+		};
 		B70717142A9CABEC00E42132 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = B7C7EDBB2A866FA000B6487D /* Chapter5.xcodeproj */;
@@ -157,13 +234,6 @@
 			proxyType = 2;
 			remoteGlobalIDString = B707169D2A960B8A00E42132;
 			remoteInfo = "exercise5-14";
-		};
-		B707173F2A9CABEC00E42132 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = B70716BB2A9CABEB00E42132 /* Chapter6.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = B70716B12A9CABEB00E42132;
-			remoteInfo = Chapter6;
 		};
 		B73CD9B12A6ABE7300000EEC /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -635,6 +705,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B702B5412AFA707400D0BCD8 /* Chapter7.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Chapter7.xcodeproj; path = Chapter7/Chapter7.xcodeproj; sourceTree = "<group>"; };
 		B70716BB2A9CABEB00E42132 /* Chapter6.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Chapter6.xcodeproj; path = Chapter6/Chapter6.xcodeproj; sourceTree = "<group>"; };
 		B73CD9622A6A9B2000000EEC /* lib */ = {isa = PBXFileReference; lastKnownFileType = folder; path = lib; sourceTree = "<group>"; };
 		B73CD9762A6AACA200000EEC /* Chapter4.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Chapter4.xcodeproj; path = Chapter4/Chapter4.xcodeproj; sourceTree = "<group>"; };
@@ -656,10 +727,27 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B702B5422AFA707400D0BCD8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B702B5BA2AFA707500D0BCD8 /* Chapter7 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		B70716BC2A9CABEB00E42132 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B70717402A9CABEC00E42132 /* Chapter6 */,
+				B702B5A52AFA707500D0BCD8 /* try6-6 */,
+				B702B5A72AFA707500D0BCD8 /* drill6 */,
+				B702B5A92AFA707500D0BCD8 /* exercise6-2 */,
+				B702B5AB2AFA707500D0BCD8 /* exercise6-3 */,
+				B702B5AD2AFA707500D0BCD8 /* example6-3-3 */,
+				B702B5AF2AFA707500D0BCD8 /* exercise6-4 */,
+				B702B5B12AFA707500D0BCD8 /* exercise6-6 */,
+				B702B5B32AFA707500D0BCD8 /* exercise6-8 */,
+				B702B5B52AFA707500D0BCD8 /* exercise6-9 */,
+				B702B5B72AFA707500D0BCD8 /* exercise6-10 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -766,6 +854,7 @@
 		B7B7CFDE2A6A96C40003342B /* PPPuCPP2nd */ = {
 			isa = PBXGroup;
 			children = (
+				B702B5412AFA707400D0BCD8 /* Chapter7.xcodeproj */,
 				B70716BB2A9CABEB00E42132 /* Chapter6.xcodeproj */,
 				B73CD9A92A6ABE7100000EEC /* Chapter2.xcodeproj */,
 				B73CD9E02A6AC08F00000EEC /* Chapter3.xcodeproj */,
@@ -874,6 +963,10 @@
 					ProductGroup = B70716BC2A9CABEB00E42132 /* Products */;
 					ProjectRef = B70716BB2A9CABEB00E42132 /* Chapter6.xcodeproj */;
 				},
+				{
+					ProductGroup = B702B5422AFA707400D0BCD8 /* Products */;
+					ProjectRef = B702B5412AFA707400D0BCD8 /* Chapter7.xcodeproj */;
+				},
 			);
 			projectRoot = "";
 			targets = (
@@ -883,6 +976,83 @@
 /* End PBXProject section */
 
 /* Begin PBXReferenceProxy section */
+		B702B5A52AFA707500D0BCD8 /* try6-6 */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = "try6-6";
+			remoteRef = B702B5A42AFA707500D0BCD8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B702B5A72AFA707500D0BCD8 /* drill6 */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = drill6;
+			remoteRef = B702B5A62AFA707500D0BCD8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B702B5A92AFA707500D0BCD8 /* exercise6-2 */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = "exercise6-2";
+			remoteRef = B702B5A82AFA707500D0BCD8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B702B5AB2AFA707500D0BCD8 /* exercise6-3 */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = "exercise6-3";
+			remoteRef = B702B5AA2AFA707500D0BCD8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B702B5AD2AFA707500D0BCD8 /* example6-3-3 */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = "example6-3-3";
+			remoteRef = B702B5AC2AFA707500D0BCD8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B702B5AF2AFA707500D0BCD8 /* exercise6-4 */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = "exercise6-4";
+			remoteRef = B702B5AE2AFA707500D0BCD8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B702B5B12AFA707500D0BCD8 /* exercise6-6 */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = "exercise6-6";
+			remoteRef = B702B5B02AFA707500D0BCD8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B702B5B32AFA707500D0BCD8 /* exercise6-8 */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = "exercise6-8";
+			remoteRef = B702B5B22AFA707500D0BCD8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B702B5B52AFA707500D0BCD8 /* exercise6-9 */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = "exercise6-9";
+			remoteRef = B702B5B42AFA707500D0BCD8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B702B5B72AFA707500D0BCD8 /* exercise6-10 */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = "exercise6-10";
+			remoteRef = B702B5B62AFA707500D0BCD8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B702B5BA2AFA707500D0BCD8 /* Chapter7 */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = Chapter7;
+			remoteRef = B702B5B92AFA707500D0BCD8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
 		B70717152A9CABEC00E42132 /* example5-5 */ = {
 			isa = PBXReferenceProxy;
 			fileType = "compiled.mach-o.executable";
@@ -1028,13 +1198,6 @@
 			fileType = "compiled.mach-o.executable";
 			path = "exercise5-14";
 			remoteRef = B707173C2A9CABEC00E42132 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		B70717402A9CABEC00E42132 /* Chapter6 */ = {
-			isa = PBXReferenceProxy;
-			fileType = "compiled.mach-o.executable";
-			path = Chapter6;
-			remoteRef = B707173F2A9CABEC00E42132 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 		B73CD9B22A6ABE7300000EEC /* example4-3-3 */ = {
